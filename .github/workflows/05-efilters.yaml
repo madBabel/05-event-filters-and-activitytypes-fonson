@@ -1,0 +1,14 @@
+name: 05 - Event Filters
+on:
+  push:
+    branches:
+      - features/**
+jobs:
+  build:
+    runs-on: ubuntu-latest 
+    steps:
+      - name: echo
+        shell: bash
+        run: |
+         echo "Running whenever branch is features"
+    
