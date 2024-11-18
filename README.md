@@ -1,3 +1,6 @@
+##mi  cambio
+3. Edite el archivo README.md (con cualquier texto) en la raíz del repositorio con los cambios que considere oportunos y confirme los cambios en una nueva rama `features`.
+
 ## Objetivo
 explorar las diferentes formas en que podemos utilizar event-filters y activity types  para especificar mejor cuándo se ejecutan los workflows de GitHub Actions.
 
